@@ -20,11 +20,11 @@
     * [Dice猜数字游戏](dice_contract.md)
     * [自动充值与提现](exchange_deposit_withdrawal.md)
 * EOS数据库操作
-    * [EOS数据库基础](eos_database_base.md)
     * [增删改查](eos_db_demo.md)
+    * EOS数据库基础
 * eosjs使用
     * [eosjs使用说明](eosjs_tutorial.md)
-    * [eosjs开发实例](eosjs_dapp.md)
+    * eosjs开发实例
 * EOS主网
     * [主网版本1.0.2.2本地安装](mainnet-1.0.2.2_setup.md)
     * [连接EOS主网](eos_mainnet_connect.md)
