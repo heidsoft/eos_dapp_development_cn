@@ -1,9 +1,9 @@
 * [目录](README.md)
 * 环境搭建
-    * [EOSIO编译安装](eos_compile_install.md)
+    * [eosio编译安装](eos_compile_install.md)
     * [EOS Docker环境搭建](EOSDocker.md)
 * nodeos节点操作
-    * [EOSIO框架](eosio_framework.md)
+    * [eosio框架](eosio_framework.md)
     * [cleos命令行界面钱包](eos_command_line_wallet.md)
     * [nodeos配置说明](nodeos_config.md)
     * [记账节点与普通节点](block_producer_non_producer.md)
@@ -12,7 +12,7 @@
 * 智能合约
     * [智能合约入门](smart_contract_start.md)
     * [关于智能合约](about_smart_contract.md)
-    * [eosio.token, eosio.exchange与eosio.msig](token_exchange_msig.md)
+    * [在eosio上发行代币](token_exchange_msig.md)
     * [Helloworld合约](Helloworld_contract.md)
     * [井字游戏Tic-tac-toe智能合约](tic-tac-toe_game.md)
     * [多重索引Table指南](multi_index_table.md)
