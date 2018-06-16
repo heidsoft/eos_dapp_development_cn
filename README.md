@@ -1,4 +1,4 @@
-* [前言](README.md)
+* [目录](README.md)
 * [环境搭建](setup)
     * [EOSIO编译安装](eos_compile_install.md)
     * [EOS Docker环境搭建](EOSDocker.md)
