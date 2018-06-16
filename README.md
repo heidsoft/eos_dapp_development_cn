@@ -3,8 +3,8 @@
     * [EOSIO编译安装](eos_compile_install.md)
     * [EOS Docker环境搭建](EOSDocker.md)
 * nodeos节点操作
-    * [EOSIO总体框架](eosio_framework.md)
-    * [EOS命令行界面钱包](eos_command_line_wallet.md)
+    * [EOSIO框架](eosio_framework.md)
+    * [cleos命令行界面钱包](eos_command_line_wallet.md)
     * [nodeos配置说明](nodeos_config.md)
     * [记账节点与普通节点](block_producer_non_producer.md)
     * [本地多节点配置](eos_multi_node.md)
