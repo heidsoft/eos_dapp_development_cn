@@ -1,5 +1,5 @@
 * [目录](README.md)
-* [环境搭建](setup)
+* 环境搭建
     * [EOSIO编译安装](eos_compile_install.md)
     * [EOS Docker环境搭建](EOSDocker.md)
 * [nodeos节点操作](nodeos)
