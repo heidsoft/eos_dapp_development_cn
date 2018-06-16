@@ -28,10 +28,10 @@
 * EOS主网
     * [主网版本1.0.2.2本地安装](mainnet-1.0.2.2_setup.md)
     * [连接EOS主网](eos_mainnet_connect.md)
-* 测试网络
-* EOS辞典
-* 快速命令查询
-* 开发与调试工具
+* [测试网络](testnets.md)
+* [EOS辞典](eos_dictionary.md)
+* [快速命令查询](command_list.md)
+* [开发与调试工具](tools.md)
 * 附：
     * [EOS白皮书（中文）](eos_whitepaper_cn.md)
     * [EOS白皮书（英文）](eos_whitepaper_en.md)
